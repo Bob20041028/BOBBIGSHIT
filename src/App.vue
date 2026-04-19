@@ -25,7 +25,7 @@ import { RouterLink, RouterView } from 'vue-router'
 
       <!-- 底部页脚 -->
       <el-footer class="app-footer">
-        <p>© 2024 My Blog. All rights reserved.</p>
+        <p>© 2026 My First Blog. All rights reserved.</p>
       </el-footer>
     </el-container>
   </div>
@@ -48,6 +48,7 @@ import { RouterLink, RouterView } from 'vue-router'
 /* 3. 头部：固定高度或自适应，内部内容居中限制宽度 */
 .app-header {
   /* Element Plus el-header 默认高度为 60px */
+  height: 80px;
   display: flex;
   align-items: center;
   border-bottom: 1px solid #eee; /* 仅保留分隔线以便观察结构 */

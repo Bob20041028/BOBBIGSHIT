@@ -132,7 +132,7 @@ const handleClick = () => {
 
 /* 反面样式 */
 .flip-card-back {
-  background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%);
+  background: linear-gradient(135deg, #161516 0%, #292727 100%);
   color: white;
 }
 

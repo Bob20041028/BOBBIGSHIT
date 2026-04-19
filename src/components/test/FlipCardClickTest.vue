@@ -26,7 +26,6 @@
     </FlipCardClick>
 
     <hr />
-
     <!-- 示例3：序列翻转动画 (5个卡片 + 字符串数组) -->
     <h3>示例3：顺序翻转显示文本</h3>
     <div class="controls">
